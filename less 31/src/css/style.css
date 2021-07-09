@@ -1,0 +1,46 @@
+body{
+    background-color: greenyellow;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+div{
+    margin: auto;
+    width: 350px;
+    height: 500px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: rgb(255, 145, 0);
+}
+
+p{
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+input{
+    margin-left: 90px;
+    width: 160px;
+    height: 20px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    margin-left: 125px;
+    margin-top: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: white;
+    color: blue;
+}
